@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "akira",
+      "sources": [
+        "https://media.discordapp.net/attachments/1132280154010423397/1133098114601979905/Untitled130_20230724210636.png?width=80&height=40"
+      ],
+      "x": 1285,
+      "y": 448
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
